@@ -31,5 +31,5 @@ Materiais e tools para web recon.
 ## Parameter discovery
 * https://github.com/devanshbatham/paramspider
 * https://github.com/tomnomnom/gf
-* https://github.com/s0med3v/Parth
+* https://github.com/s0md3v/Parth
 * https://github.com/tomnomnom/hacks/tree/master/kss

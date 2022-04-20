@@ -27,3 +27,9 @@ Materiais e tools para web recon.
 * https://github.com/xmendez/wfuzz
 * https://github.com/ffuf/ffuf
 * https://github.com/maurosoria/dirsearch
+
+## Parameter discovery
+* https://github.com/devanshbatham/paramspider
+* https://github.com/tomnomnom/gf
+* https://github.com/s0med3v/Parth
+* https://github.com/tomnomnom/hacks/tree/master/kss

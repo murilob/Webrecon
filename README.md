@@ -33,3 +33,8 @@ Materiais e tools para web recon.
 * https://github.com/tomnomnom/gf
 * https://github.com/s0md3v/Parth
 * https://github.com/tomnomnom/hacks/tree/master/kss
+
+## Content discovery
+* https://github.com/projectdiscovery/httpx
+* https://github.com/michenriksen/aquatone
+* https://github.com/m4ll0k/SecretFinder
